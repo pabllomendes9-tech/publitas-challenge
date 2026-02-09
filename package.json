@@ -1,0 +1,13 @@
+{
+  "name": "publitas-backend-code-challenge",
+  "version": "1.0.0",
+  "description": "Publitas backend code challenge solution",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  }
+}
